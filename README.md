@@ -1,4 +1,4 @@
-# GitHub-ProfileFInder --- JavaScriprs with API Key Project
+# GitHub-ProfileFInder --- JavaScripts with API Key Project
 
 # 🔍 GitHub Profile Finder
 
