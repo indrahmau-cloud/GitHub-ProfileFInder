@@ -3,7 +3,7 @@
    ============================================= */
 
 // ⚠️ PASTE YOUR NEW GITHUB TOKEN HERE (keep this file private, never share it)
-const TOKEN = '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';
+const TOKEN = "https://api.github.com/users/";
 
 // Language → colour mapping (matches GitHub's colours)
 const LANG_COLORS = {
