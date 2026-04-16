@@ -4,7 +4,7 @@
 
 // Optional: paste a GitHub token here to raise rate limit from 60 to 5,000 req/hr
 // Generate one at: https://github.com/settings/tokens (no scopes needed)
-const TOKEN = '';
+const TOKEN = 'null';
 
 const LANG_COLORS = {
   JavaScript: '#f7df1e', TypeScript: '#3178c6', Python: '#3572A5',
